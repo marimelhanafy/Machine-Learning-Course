@@ -1,0 +1,2 @@
+1. https://github.com/akanazawa/Basic-Classification
+2. https://github.com/hal3/ciml/tree/master/projects
